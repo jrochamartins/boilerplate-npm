@@ -4,6 +4,7 @@
   "description": "Projeto inicial parte do aprendizado node",
   "keywords": [ "freecodecamp", "personal", "learn" ],
   "license": "MIT",
+  "version": "1.2.0",
   "dependencies": {
     "express": "^4.14.0"
   },
